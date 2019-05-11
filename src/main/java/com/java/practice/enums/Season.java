@@ -19,4 +19,5 @@ public enum Season {
 			System.out.println(season.name() + " - " + season.ordinal());
 		}
 	}
+	
 }
